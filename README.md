@@ -1,5 +1,5 @@
 - Hi, I’m @emiliepoisson - french doctor engineer with [HDR since 2020](https://hal.archives-ouvertes.fr/tel-03059280).
-- I’m assistant professor and interested in data science and machine learning in the university of Littoral (ULCO). 
+- I’m full professor and interested in data science and machine learning in the university of Littoral (ULCO). 
 - I’m involved in [JERICO Project](https://www.jerico-ri.eu/) to propose new algorithm to extract information from marine measurement instruments. 
 - 📫 How to reach me emilie.poisson [at] univ.littoral.fr
 
@@ -15,9 +15,13 @@
 ***Developed R packages***
 - [uHMM](https://cran.r-project.org/web/packages/uHMM/index.html) Fully **unsupervised Hidden Markov Model** built from spectral clustering to detect its states; (validated for Ferrybox data or fixed buoys)
 - [DTWBI]((https://cran.r-project.org/web/packages/DTWBI/index.html), [DTWUMI]((https://cran.r-project.org/web/packages/DTWUMI/index.html), [FSMUMI]((https://cran.r-project.org/web/packages/FSMUMI/index.html) Imputation of Time Series Based on Dynamic Time Warping or Fuzzy Logic
-- [RclusTool](https://cran.r-project.org/web/packages/RclusTool/index.html) GUI for **Clustering** and **Classification** data from signals, feaures and/or images (like Flow cytometry data or others.)
+- [RclusTool](https://cran.r-project.org/web/packages/RclusTool/index.html) GUI for **Clustering** and **Classification** data from signals, feaures and/or images (like Flow cytometry data or ot hers.)
 
 ***Phd supervision***
+- **Nicolas Andrialovanirina** From November 2021 to November 2024(co-supervision with Kelig Mahe). EUR IFSEA- ULCO funding. 
+2D and 3D shape of fish otoliths: from structuration to classification of fish.
+- **Raed Halawi Ghosn** From October 2021 to October 2024  (supervision with Alain Lefebvre). 50% OFB - 50% IFREMER grant.
+Definition of Environmental States Favorable for Blooms, and Development of an Expert Forecasting, Warning, and Decision-Making System.
 - **Siegfried Delannoy** From October 2019 (supervision with André Bigand). Industrial funding - CIFRE grant with ORIENTOI company, Lille. 
 Symbolic Translation of Time Series using Piecewise N-gram Similarity Voting scheme was proposed in ICPRAM 2021. 
 - **Kelly GRASSI** From October 2018 to Oct 2020 (supervision with Alain Lefebvre). Industrial funding, CIFRE grant with WeatherForce company, Toulouse. Defended on November 19th 2020. Kelly is Data scientist at WeatherForce company.
