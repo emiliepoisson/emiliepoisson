@@ -18,7 +18,9 @@
 - [RclusTool](https://cran.r-project.org/web/packages/RclusTool/index.html) GUI for **Clustering** and **Classification** data from signals, feaures and/or images (like Flow cytometry data or ot hers.)
 
 ***Phd supervision***
-- **Nicolas Andrialovanirina** From November 2021 to November 2024(co-supervision with Kelig Mahe). EUR IFSEA- ULCO funding. 
+- **Aziz Allouche** From Feb 2024 (co-supervision with Sonia). 50% Tunisie - 50% ULCO funding. 
+Constrained clustering segmentation.
+- **Nicolas Andrialovanirina** From November 2021 to November 2024 (co-supervision with Kelig Mahe). EUR IFSEA- ULCO funding. 
 2D and 3D shape of fish otoliths: from structuration to classification of fish.
 - **Raed Halawi Ghosn** From October 2021 to October 2024  (supervision with Alain Lefebvre). 50% OFB - 50% IFREMER grant.
 Definition of Environmental States Favorable for Blooms, and Development of an Expert Forecasting, Warning, and Decision-Making System.
