@@ -3,6 +3,9 @@
 - I’m involved in [JERICO Project](https://www.jerico-ri.eu/) to propose new algorithm to extract information from marine measurement instruments. 
 - 📫 How to reach me emilie.poisson [at] univ.littoral.fr
 
+***Internship proposals***
+- [1st semester of 2026: Master 2 in computer science or data sciencemultimodal fusion architecture for predicting phytoplankton blooms](internship1_2026.pdf)
+
 ***Publication Topics***
 - pattern clustering and classification
 - time series
