@@ -1,6 +1,6 @@
 - Hi, I’m @emiliepoisson - french doctor engineer with [HDR since 2020](https://hal.archives-ouvertes.fr/tel-03059280).
-- I’m full professor and interested in data science and machine learning in the university of Littoral (ULCO). 
-- I’m involved in [JERICO Project](https://www.jerico-ri.eu/) to propose new algorithm to extract information from marine measurement instruments. 
+- I’m full professor and interested in data science and machine learning in the university of Littoral (ULCO, LISIC Lab) with a focus on signal segmentation and classifcation by Machine Learning.
+- I’m involved in CPER CornelIA and MAIA to propose new algorithm to extract information from marine measurement instruments or from marine or biomedical image. 
 - 📫 How to reach me emilie.poisson [at] univ.littoral.fr
 
 ***Internship proposals***
@@ -19,6 +19,8 @@
 - [uHMM](https://cran.r-project.org/web/packages/uHMM/index.html) Fully **unsupervised Hidden Markov Model** built from spectral clustering to detect its states; (validated for Ferrybox data or fixed buoys)
 - [DTWBI]((https://cran.r-project.org/web/packages/DTWBI/index.html), [DTWUMI]((https://cran.r-project.org/web/packages/DTWUMI/index.html), [FSMUMI]((https://cran.r-project.org/web/packages/FSMUMI/index.html) Imputation of Time Series Based on Dynamic Time Warping or Fuzzy Logic
 - [RclusTool](https://cran.r-project.org/web/packages/RclusTool/index.html) GUI for **Clustering** and **Classification** data from signals, feaures and/or images (like Flow cytometry data or ot hers.)
+- [sClust](https://cran.r-project.org/web/packages/sClust/index.html). R Toolbox for Unsupervised Spectral Clustering but also hierarchical clustering approach. 
+- [our server](mawenzi.univ-littoral.fr) with shiny demonstrators 
 
 ***Phd supervision***
 - **Aziz Allouche** From Feb 2024 (co-supervision with Sonia). 50% Tunisie - 50% ULCO funding. 
