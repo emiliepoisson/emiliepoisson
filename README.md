@@ -5,7 +5,8 @@
 
 ***Internship proposals***
 - [1st semester of 2026: Master 2 in computer science or data sciencemultimodal fusion architecture for predicting phytoplankton blooms](internship1_2026.pdf)
-
+- 1st semester of 2026 : Anisakis infestation modelisation. contact me.
+  
 ***Publication Topics***
 - pattern clustering and classification
 - time series
